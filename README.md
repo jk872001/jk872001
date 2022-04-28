@@ -6,10 +6,10 @@ user-friendly applications. Eager to tackle
 web development challenges to achieve
 a lasting impact on user experience.
 </h4>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vaibhavjarwekar5526&label=Profile%20views&color=0e75b6&style=flat" alt="Jitesh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jk872001&label=Profile%20views&color=0e75b6&style=flat" alt="Jitesh" /> </p>
 <p align="center"><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="Jitesh"/></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavjarwekar5526" alt="Jitesh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jk872001" alt="Jitesh" /></a> </p>
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 

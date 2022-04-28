@@ -37,6 +37,6 @@ a lasting impact on user experience.
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jk872001&show_icons=true&locale=en&layout=compact" alt="jiteshkumar" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jk8720016&show_icons=true&locale=en" alt="jiteshkumar" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jk872001&show_icons=true&locale=en" alt="jiteshkumar" /></p>
 
 

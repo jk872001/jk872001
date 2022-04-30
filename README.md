@@ -13,7 +13,7 @@ a lasting impact on user experience.
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://deft-florentine-a14a0a.netlify.app/](https://deft-florentine-a14a0a.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jiteshkumar-portfolio.netlify.app/](https://jiteshkumar-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN Stack**
 

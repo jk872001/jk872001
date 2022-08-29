@@ -19,7 +19,7 @@ a lasting impact on user experience.
 
 - 📫 How to reach me **Jiteshkumar872001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pft0oi8vzzt75g99PnZoJcge0g4GzpQO/view?usp=sharing](https://drive.google.com/file/d/1Pft0oi8vzzt75g99PnZoJcge0g4GzpQO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tZq6pbpJk4hjKxPKeZX5S2tKMgGK6Y3e/view?usp=sharing](https://drive.google.com/file/d/1tZq6pbpJk4hjKxPKeZX5S2tKMgGK6Y3e/view?usp=sharing)
 
 - ⚡ Hobbies **Coding, Listening to Music, Watching Movies**
 

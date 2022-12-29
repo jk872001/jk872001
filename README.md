@@ -11,7 +11,7 @@ a lasting impact on user experience.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jk872001" alt="Jitesh" /></a> </p>
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently working as a  **Full-Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://jiteshkumar-portfolio.netlify.app/](https://jiteshkumar-portfolio.netlify.app/)
 
@@ -25,11 +25,12 @@ a lasting impact on user experience.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/@vjarwekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vjarwekar" height="30" width="40" /></a> -->
+<a href="https://twitter.com/JiteshK20278262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jiteshkumar872001" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/jiteshkumar101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiteshkumar101" height="30" width="40" /></a>
-<!-- <a href="https://codesandbox.com/vaibhavjarwekar5526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vaibhavjarwekar5526" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vj5526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vj5526" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaibhavjarwekar5526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhavjarwekar5526" height="30" width="40" /></a> -->
+<a href="https://codesandbox.com/jiteshkumar872001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jiteshkumar872001" height="30" width="40" /></a>
+<a href="https://chillkindcoder.hashnode.dev/" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg?auto=compress" alt="" height="30" width="40" /></a> -->
+<a href="https://www.leetcode.com/jiteshkumar872001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jiteshkumar872001" height="30" width="40" /></a> -->
+  
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

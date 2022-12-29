@@ -27,9 +27,9 @@ a lasting impact on user experience.
 <p align="left">
 <a href="https://twitter.com/JiteshK20278262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jiteshkumar872001" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/jiteshkumar101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiteshkumar101" height="30" width="40" /></a>
-<a href="https://codesandbox.com/jiteshkumar872001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jiteshkumar872001" height="30" width="40" /></a>
-<a href="https://chillkindcoder.hashnode.dev/" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg?auto=compress" alt="" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/jiteshkumar872001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jiteshkumar872001" height="30" width="40" /></a> -->
+<a title="Codesandbox" href="https://codesandbox.com/jiteshkumar872001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jiteshkumar872001" height="30" width="40" /></a>
+<a href="https://chillkindcoder.hashnode.dev/" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg?auto=compress" alt="" height="30" width="60" /></a>
+<a href="https://www.leetcode.com/jiteshkumar872001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jiteshkumar872001" height="30" width="40" /></a> 
   
 </p>
 

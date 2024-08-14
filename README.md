@@ -13,8 +13,6 @@ a lasting impact on user experience.
 
 - 🌱 I’m currently working as a  **Full-Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://jiteshkumar-portfolio.netlify.app/](https://jiteshkumar-portfolio.netlify.app/)
-
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **Jiteshkumar872001@gmail.com**
